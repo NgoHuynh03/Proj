@@ -1,0 +1,574 @@
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\appsettings.Development.json
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\appsettings.json
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Proj.staticwebassets.runtime.json
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Proj.staticwebassets.endpoints.json
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Proj.exe
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Proj.deps.json
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Proj.runtimeconfig.json
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Proj.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Proj.pdb
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Azure.Core.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Azure.Identity.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Humanizer.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\MailKit.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\MimeKit.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\Stripe.net.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\System.ClientModel.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\System.CodeDom.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\Proj.csproj.AssemblyReference.cache
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\Proj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\Proj.AssemblyInfoInputs.cache
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\Proj.AssemblyInfo.cs
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\Proj.csproj.CoreCompileInputs.cache
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\Proj.MvcApplicationPartsAssemblyInfo.cache
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\Proj.RazorAssemblyInfo.cache
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\Proj.RazorAssemblyInfo.cs
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\scopedcss\bundle\Proj.styles.css
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\scopedcss\projectbundle\Proj.bundle.scp.css
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\t25z8org43-bqjiyaj88i.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\htuzpbwap5-c2jlpeoesf.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\5basrcqi9o-erw9l3u2r3.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\zmboo0rgnf-aexeepp0ev.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\rfrnxz7ybl-d7shbmvgxk.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\aerq94k74l-ausgxo2sd3.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\0l5p8eu86d-k8d9w2qqmf.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\n3a2i82dcr-cosvhxvwiu.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\4x6hxghzun-ub07r2b239.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\2bvc0lqnsl-fvhpjtyr6v.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\got9nxeoov-b7pk76d08c.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\tk6it6fej5-fsbi9cje9m.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\kor4j5v5gn-rzd6atqjts.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\eug5xc9501-ee0r1s7dh0.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\kda7f14tp7-dxx9fxp4il.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\g8k6i777fz-jd9uben2k1.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\84lgkai1vv-khv3u5hwcm.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\0ni9n41fgg-r4e9w2rdcm.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\pevnmlusm5-lcd1t2u6c8.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\jnll2yn67u-c2oey78nd0.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\k5nleexzux-tdbxkamptv.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\9xijwpbq7q-j5mq2jizvt.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\ragg6b82sx-06098lyss8.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\4q417j6386-nvvlpmu67g.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\0mikd0gpil-s35ty4nyc5.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\owdrn435ru-pj5nd1wqec.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\06eq7aftjo-46ein0sx1k.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\f6236dwpnn-v0zj4ognzu.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\mkgakxrn5c-37tfw0ft22.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\inmuhycqaa-hrwsygsryq.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\1i5t63ijfx-pk9g2wxc8p.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\7qlp1j4bm8-ft3s53vfgj.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\eazdzpaqgo-6cfz1n2cew.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\qjf4aoefiz-6pdc2jztkx.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\dm57tyh9yw-493y06b0oq.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\b8412jgybp-iovd86k7lj.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\qd228ozno2-vr1egmr9el.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\3vo77y95sq-kbrnm935zg.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\jqx6yudfto-jj8uyg4cgr.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\d30lewvyv7-y7v9cxd14o.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\yroljktvbg-notf2xhcfb.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\1iy0duqhgq-h1s4sie4z3.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\rsxjddwq0h-63fj8s7r0e.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\5lr1u2s8bf-0j3bgjxly4.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\kxq4qspeym-43ric29v4i.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\5t7gt2jrdp-5ipweew5fc.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\adq9yapoh3-61n19gt1b8.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\mhxtsqcmi5-fr7q2aak1r.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\wqj0cnpsgh-bqjiyaj88i.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\ee7vppbp5a-c2jlpeoesf.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\pi27y7ryld-erw9l3u2r3.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\tsx1aen7ut-aexeepp0ev.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\xsfie7j83y-d7shbmvgxk.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\ar1e6tmynb-ausgxo2sd3.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\fopxz63bai-k8d9w2qqmf.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\mk8q7d33pj-cosvhxvwiu.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\0676x8ag90-ub07r2b239.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\o5v1fk1p83-fvhpjtyr6v.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\mt1yjvuzev-b7pk76d08c.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\zhvmhvcqgx-fsbi9cje9m.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\atk4mq2vnd-rzd6atqjts.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\12p85huxog-ee0r1s7dh0.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\gefoq9mkcj-dxx9fxp4il.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\enn1np7yge-jd9uben2k1.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\l5ntsj25gz-khv3u5hwcm.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\x74t009fyl-r4e9w2rdcm.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\vt6zswp7ft-lcd1t2u6c8.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\i7saxb18j9-c2oey78nd0.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\fp1fbsf1j0-tdbxkamptv.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\wdlfkrchen-j5mq2jizvt.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\3j5dtuto2v-06098lyss8.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\ft7m4kyuz2-nvvlpmu67g.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\58vfdi2i10-s35ty4nyc5.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\4dhlplvsau-pj5nd1wqec.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\c9zamuwr7g-46ein0sx1k.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\f6w95e40ja-v0zj4ognzu.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\s56638hfr9-37tfw0ft22.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\0bleoiua4h-hrwsygsryq.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\27e52ic9y0-pk9g2wxc8p.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\z2iqapq12g-ft3s53vfgj.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\2lofq96wmf-6cfz1n2cew.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\8g7bdlqr4n-6pdc2jztkx.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\wafe5hm2uu-493y06b0oq.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\9wtwijbruh-iovd86k7lj.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\72mjb12ypv-vr1egmr9el.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\gaxi6e73ir-kbrnm935zg.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\gq965r1gr2-jj8uyg4cgr.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\vlrhnl9394-y7v9cxd14o.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\3w8zadyxi7-notf2xhcfb.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\0fphjmmt3w-h1s4sie4z3.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\uffzfba51s-63fj8s7r0e.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\yp5gufxlr1-0j3bgjxly4.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\8ds6ily3zj-47otxtyo56.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\vfrl7lpksg-4v8eqarkd7.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\mivj3m1hl9-l3n5xuwxn8.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\h9jdiwiqpm-ilo7uva0vt.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\r23lb64miz-qlccset4i1.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\iqm5stfgu4-lzl9nlhx6b.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\tsh1yfut41-ag7o75518u.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\y109765rlw-xzw0cte36n.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\sfjrfd9t4z-0i3buxo5is.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\swha1lbjjh-o1o13a6vjx.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\trc74u8s4d-ttgo8qnofa.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\prib7b5qcj-2z0ns9nrw6.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\b3fbynzo8l-muycvpuwrr.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\st7jgpxulr-87fc7y1x7t.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\8gqptioubq-jfsiqqwiad.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\fbj3s1lzqh-gjtd9td2kc.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\compressed\8cpplsj56q-gjtd9td2kc.gz
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\staticwebassets.build.json
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\staticwebassets.development.json
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\staticwebassets\msbuild.Proj.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\staticwebassets\msbuild.Proj.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\staticwebassets\msbuild.build.Proj.props
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Proj.props
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Proj.props
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\Proj.csproj.Up2Date
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\Proj.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\refint\Proj.dll
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\Proj.pdb
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\Proj.genruntimeconfig.cache
+D:\Phim\bo\Tải Xuống\1\asp.net-mvc-v9-Ecommerce-website-main\Proj\obj\Debug\net9.0\ref\Proj.dll
+D:\MCV\Proj\bin\Debug\net9.0\appsettings.Development.json
+D:\MCV\Proj\bin\Debug\net9.0\appsettings.json
+D:\MCV\Proj\bin\Debug\net9.0\Proj.staticwebassets.endpoints.json
+D:\MCV\Proj\bin\Debug\net9.0\Proj.staticwebassets.runtime.json
+D:\MCV\Proj\bin\Debug\net9.0\Proj.exe
+D:\MCV\Proj\bin\Debug\net9.0\Proj.deps.json
+D:\MCV\Proj\bin\Debug\net9.0\Proj.runtimeconfig.json
+D:\MCV\Proj\bin\Debug\net9.0\Proj.dll
+D:\MCV\Proj\bin\Debug\net9.0\Proj.pdb
+D:\MCV\Proj\bin\Debug\net9.0\Azure.Core.dll
+D:\MCV\Proj\bin\Debug\net9.0\Azure.Identity.dll
+D:\MCV\Proj\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\MCV\Proj\bin\Debug\net9.0\Humanizer.dll
+D:\MCV\Proj\bin\Debug\net9.0\MailKit.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\MCV\Proj\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\MCV\Proj\bin\Debug\net9.0\MimeKit.dll
+D:\MCV\Proj\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\MCV\Proj\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\MCV\Proj\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\MCV\Proj\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\MCV\Proj\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\MCV\Proj\bin\Debug\net9.0\Stripe.net.dll
+D:\MCV\Proj\bin\Debug\net9.0\System.ClientModel.dll
+D:\MCV\Proj\bin\Debug\net9.0\System.CodeDom.dll
+D:\MCV\Proj\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\MCV\Proj\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\MCV\Proj\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\MCV\Proj\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\MCV\Proj\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\MCV\Proj\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\MCV\Proj\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MCV\Proj\bin\Debug\net9.0\System.Memory.Data.dll
+D:\MCV\Proj\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\MCV\Proj\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\MCV\Proj\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\MCV\Proj\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MCV\Proj\obj\Debug\net9.0\Proj.csproj.AssemblyReference.cache
+D:\MCV\Proj\obj\Debug\net9.0\Proj.GeneratedMSBuildEditorConfig.editorconfig
+D:\MCV\Proj\obj\Debug\net9.0\Proj.AssemblyInfoInputs.cache
+D:\MCV\Proj\obj\Debug\net9.0\Proj.AssemblyInfo.cs
+D:\MCV\Proj\obj\Debug\net9.0\Proj.csproj.CoreCompileInputs.cache
+D:\MCV\Proj\obj\Debug\net9.0\Proj.MvcApplicationPartsAssemblyInfo.cache
+D:\MCV\Proj\obj\Debug\net9.0\Proj.RazorAssemblyInfo.cache
+D:\MCV\Proj\obj\Debug\net9.0\Proj.RazorAssemblyInfo.cs
+D:\MCV\Proj\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MCV\Proj\obj\Debug\net9.0\scopedcss\bundle\Proj.styles.css
+D:\MCV\Proj\obj\Debug\net9.0\scopedcss\projectbundle\Proj.bundle.scp.css
+D:\MCV\Proj\obj\Debug\net9.0\compressed\t25z8org43-bqjiyaj88i.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\htuzpbwap5-c2jlpeoesf.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\5basrcqi9o-erw9l3u2r3.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\zmboo0rgnf-aexeepp0ev.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\rfrnxz7ybl-d7shbmvgxk.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\aerq94k74l-ausgxo2sd3.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\0l5p8eu86d-k8d9w2qqmf.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\n3a2i82dcr-cosvhxvwiu.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\4x6hxghzun-ub07r2b239.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\2bvc0lqnsl-fvhpjtyr6v.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\got9nxeoov-b7pk76d08c.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\tk6it6fej5-fsbi9cje9m.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\kor4j5v5gn-rzd6atqjts.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\eug5xc9501-ee0r1s7dh0.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\kda7f14tp7-dxx9fxp4il.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\g8k6i777fz-jd9uben2k1.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\84lgkai1vv-khv3u5hwcm.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\0ni9n41fgg-r4e9w2rdcm.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\pevnmlusm5-lcd1t2u6c8.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\jnll2yn67u-c2oey78nd0.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\k5nleexzux-tdbxkamptv.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\9xijwpbq7q-j5mq2jizvt.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\ragg6b82sx-06098lyss8.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\4q417j6386-nvvlpmu67g.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\0mikd0gpil-s35ty4nyc5.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\owdrn435ru-pj5nd1wqec.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\06eq7aftjo-46ein0sx1k.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\f6236dwpnn-v0zj4ognzu.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\mkgakxrn5c-37tfw0ft22.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\inmuhycqaa-hrwsygsryq.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\1i5t63ijfx-pk9g2wxc8p.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\7qlp1j4bm8-ft3s53vfgj.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\eazdzpaqgo-6cfz1n2cew.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\qjf4aoefiz-6pdc2jztkx.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\dm57tyh9yw-493y06b0oq.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\b8412jgybp-iovd86k7lj.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\qd228ozno2-vr1egmr9el.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\3vo77y95sq-kbrnm935zg.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\jqx6yudfto-jj8uyg4cgr.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\d30lewvyv7-y7v9cxd14o.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\yroljktvbg-notf2xhcfb.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\1iy0duqhgq-h1s4sie4z3.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\rsxjddwq0h-63fj8s7r0e.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\5lr1u2s8bf-0j3bgjxly4.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\kxq4qspeym-43ric29v4i.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\5t7gt2jrdp-5ipweew5fc.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\adq9yapoh3-61n19gt1b8.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\mhxtsqcmi5-fr7q2aak1r.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\wqj0cnpsgh-bqjiyaj88i.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\ee7vppbp5a-c2jlpeoesf.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\pi27y7ryld-erw9l3u2r3.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\tsx1aen7ut-aexeepp0ev.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\xsfie7j83y-d7shbmvgxk.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\ar1e6tmynb-ausgxo2sd3.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\fopxz63bai-k8d9w2qqmf.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\mk8q7d33pj-cosvhxvwiu.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\0676x8ag90-ub07r2b239.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\o5v1fk1p83-fvhpjtyr6v.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\mt1yjvuzev-b7pk76d08c.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\zhvmhvcqgx-fsbi9cje9m.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\atk4mq2vnd-rzd6atqjts.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\12p85huxog-ee0r1s7dh0.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\gefoq9mkcj-dxx9fxp4il.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\enn1np7yge-jd9uben2k1.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\l5ntsj25gz-khv3u5hwcm.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\x74t009fyl-r4e9w2rdcm.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\vt6zswp7ft-lcd1t2u6c8.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\i7saxb18j9-c2oey78nd0.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\fp1fbsf1j0-tdbxkamptv.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\wdlfkrchen-j5mq2jizvt.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\3j5dtuto2v-06098lyss8.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\ft7m4kyuz2-nvvlpmu67g.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\58vfdi2i10-s35ty4nyc5.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\4dhlplvsau-pj5nd1wqec.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\c9zamuwr7g-46ein0sx1k.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\f6w95e40ja-v0zj4ognzu.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\s56638hfr9-37tfw0ft22.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\0bleoiua4h-hrwsygsryq.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\27e52ic9y0-pk9g2wxc8p.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\z2iqapq12g-ft3s53vfgj.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\2lofq96wmf-6cfz1n2cew.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\8g7bdlqr4n-6pdc2jztkx.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\wafe5hm2uu-493y06b0oq.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\9wtwijbruh-iovd86k7lj.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\72mjb12ypv-vr1egmr9el.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\gaxi6e73ir-kbrnm935zg.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\gq965r1gr2-jj8uyg4cgr.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\vlrhnl9394-y7v9cxd14o.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\3w8zadyxi7-notf2xhcfb.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\0fphjmmt3w-h1s4sie4z3.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\uffzfba51s-63fj8s7r0e.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\yp5gufxlr1-0j3bgjxly4.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\8ds6ily3zj-47otxtyo56.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\vfrl7lpksg-4v8eqarkd7.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\mivj3m1hl9-l3n5xuwxn8.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\h9jdiwiqpm-ilo7uva0vt.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\r23lb64miz-qlccset4i1.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\iqm5stfgu4-lzl9nlhx6b.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\tsh1yfut41-ag7o75518u.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\y109765rlw-xzw0cte36n.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\sfjrfd9t4z-0i3buxo5is.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\swha1lbjjh-o1o13a6vjx.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\trc74u8s4d-ttgo8qnofa.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\prib7b5qcj-2z0ns9nrw6.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\b3fbynzo8l-muycvpuwrr.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\st7jgpxulr-87fc7y1x7t.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\8gqptioubq-jfsiqqwiad.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\fbj3s1lzqh-gjtd9td2kc.gz
+D:\MCV\Proj\obj\Debug\net9.0\compressed\8cpplsj56q-gjtd9td2kc.gz
+D:\MCV\Proj\obj\Debug\net9.0\staticwebassets.build.json
+D:\MCV\Proj\obj\Debug\net9.0\staticwebassets.development.json
+D:\MCV\Proj\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\MCV\Proj\obj\Debug\net9.0\staticwebassets\msbuild.Proj.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MCV\Proj\obj\Debug\net9.0\staticwebassets\msbuild.Proj.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\MCV\Proj\obj\Debug\net9.0\staticwebassets\msbuild.build.Proj.props
+D:\MCV\Proj\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Proj.props
+D:\MCV\Proj\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Proj.props
+D:\MCV\Proj\obj\Debug\net9.0\staticwebassets.pack.json
+D:\MCV\Proj\obj\Debug\net9.0\Proj.csproj.Up2Date
+D:\MCV\Proj\obj\Debug\net9.0\Proj.dll
+D:\MCV\Proj\obj\Debug\net9.0\refint\Proj.dll
+D:\MCV\Proj\obj\Debug\net9.0\Proj.pdb
+D:\MCV\Proj\obj\Debug\net9.0\Proj.genruntimeconfig.cache
+D:\MCV\Proj\obj\Debug\net9.0\ref\Proj.dll

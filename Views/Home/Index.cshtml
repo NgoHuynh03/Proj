@@ -1,0 +1,286 @@
+﻿@{
+    ViewData["Title"] = "Welcome to Our Store";
+}
+
+<!-- Top Navbar -->
+<div class="main-navbar shadow-sm sticky-top">
+    <div class="top-navbar">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-2 my-auto d-none d-sm-none d-md-block d-lg-block">
+                    <h5 class="brand-name">Shopping</h5>
+                </div>
+                <div class="col-md-5 my-auto">
+                    <div class="row mb-3">
+                        <div class="col-md-6">
+                            <!-- Product Name Filter -->
+                            <form method="get" action="@Url.Action("Filter")" role="search">
+                                <div class="input-group">
+                                    <input type="search" name="productName" class="form-control" placeholder="Search by product name" value="@ViewData["productName"]" />
+                                    <button class="btn bg-white" type="submit">
+                                        <i class="fa fa-search"></i>
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+
+                        <div class="col-md-6">
+                            <!-- Price Range Filter -->
+                            <form method="get" action="@Url.Action("Filter")" role="search">
+                                <div class="input-group">
+                                    <!-- Min Price Filter -->
+                                    <input type="number" name="minPrice" class="form-control" placeholder="Min Price" value="@ViewData["minPrice"]" />
+                                    <!-- Max Price Filter -->
+                                    <input type="number" name="maxPrice" class="form-control" placeholder="Max Price" value="@ViewData["maxPrice"]" />
+                                    <button class="btn bg-white" type="submit">
+                                        <i class="fa fa-search"></i>
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-5 my-auto">
+                    <ul class="nav justify-content-end">
+                        <li class="nav-item">
+                            <a class="btn btn-secondary me-2" href="/Account/Login">
+                                <i class="fa fa-sign-in-alt"></i> Login
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="btn btn-secondary" href="/Account/Register">
+                                <i class="fa fa-user-plus"></i> Register
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+            <a class="navbar-brand d-block d-sm-block d-md-none d-lg-none" href="#">Shopping</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item"><a class="nav-link" href="/Home/Index">Home</a></li>
+                    <li class="nav-item dropdown position-static">
+                        <a class="nav-link dropdown-toggle" href="#" id="categoriesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Danh Mục Sản Phẩm
+                        </a>
+                        <div class="dropdown-menu w-100 shadow">
+                            <div class="container-fluid">
+                                <div class="row">
+                                    @foreach (var category in ViewBag.categories)
+                                    {
+                                        <div class="col-md-3">
+                                            <a href="/Home/Category/@category.Id" class="dropdown-item">@category.Name</a>
+                                        </div>
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Home/FeaturedProducts">Sản phẩm nổi bật</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</div>
+
+<!-- Hero Section -->
+<div class="container text-center mt-5">
+    <h1>Chào Mừng Đến với Shop</h1>
+    <p>Cửa hàng lý tưởng của bạn cho các sản phẩm tuyệt vời.</p>
+</div>
+
+<!-- Products Section -->
+<div id="products" class="container mt-5">
+    <div class="row row-cols-1 row-cols-md-3 row-cols-lg-4 g-4">
+        @foreach (var product in ViewBag.products)
+        {
+            <div class="col">
+                <div class="card shadow-sm border-light rounded position-relative">
+                    <!-- Stock Status -->
+                    @if (product.Quantity == 0)
+                    {
+                    <span class="badge position-absolute top-0 end-0 m-2 bg-danger text-white">Hết hàng</span>
+                    }
+                    else if (product.Quantity == 1)
+                    {
+                    <span class="badge position-absolute top-0 end-0 m-2 bg-warning text-dark">Sản phẩm cuối cùng</span>
+                    }
+                    else
+                    {
+                    <span class="badge position-absolute top-0 end-0 m-2 bg-success text-white">Còn hàng</span>
+                    }
+
+                    <img src="@product.ImagePath" class="card-img-top" alt="@product.Name" style="height: 300px; object-fit: cover;">
+                    <div class="card-body">
+                        <h5 class="card-title">@product.Name</h5>
+                        <p class="card-text" style="font-size: 0.9rem;">
+                            @if (product.Description.Length > 100)
+                            {
+                            @product.Description.Substring(0, 100)
+                            }
+                            else
+                            {
+                            @product.Description
+                            }
+                        </p>
+                        <p class="card-text"><strong>Price:</strong> $@product.Price</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<!-- Footer Section -->
+<div class="footer-area mt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <h4 class="footer-heading">Shopping</h4>
+                <div class="footer-underline"></div>
+                <p>
+                    Cửa hàng lý tưởng của bạn cho các sản phẩm tuyệt vời.
+                </p>
+            </div>
+            <div class="col-md-3">
+                <h4 class="footer-heading">Liên kết nhanh</h4>
+                <div class="footer-underline"></div>
+                <div class="mb-2"><a href="#" class="text-white">Home</a></div>
+                <div class="mb-2"><a href="#" class="text-white">About Us</a></div>
+                <div class="mb-2"><a href="#" class="text-white">Contact Us</a></div>
+            </div>
+            <div class="col-md-3">
+                <h4 class="footer-heading">Shop Now</h4>
+                <div class="footer-underline"></div>
+                <div class="mb-2"><a href="#" class="text-white">Collections</a></div>
+                <div class="mb-2"><a href="#" class="text-white">Featured Products</a></div>
+                <div class="mb-2"><a href="#" class="text-white">Cart</a></div>
+            </div>
+            <div class="col-md-3">
+                <h4 class="footer-heading">Reach Us</h4>
+                <div class="footer-underline"></div>
+                <div class="mb-2">
+                    <p>
+                        <i class="fa fa-map-marker"></i> #444, some main road, some area, some street, Bangalore, India - 560077
+                    </p>
+                </div>
+                <div class="mb-2">
+                    <a href="#" class="text-white">
+                        <i class="fa fa-phone"></i> +91 888-XXX-XXXX
+                    </a>
+                </div>
+                <div class="mb-2">
+                    <a href="#" class="text-white">
+                        <i class="fa fa-envelope"></i> admin@gmail.com
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="copyright-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <p>&copy; 2024 Shopping. All rights reserved.</p>
+            </div>
+            <div class="col-md-4">
+                <div class="social-media text-end">
+                    Get Connected:
+                    <a href="#"><i class="fa fa-facebook"></i></a>
+                    <a href="#"><i class="fa fa-twitter"></i></a>
+                    <a href="#"><i class="fa fa-instagram"></i></a>
+                    <a href="#"><i class="fa fa-youtube"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    .main-navbar {
+        border-bottom: 1px solid #ccc;
+    }
+    .main-navbar .top-navbar {
+        background-color: #2874f0;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .main-navbar .top-navbar .brand-name {
+        color: #fff;
+    }
+    .main-navbar .top-navbar .nav-link {
+        color: #fff;
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .main-navbar .top-navbar .dropdown-menu {
+        padding: 0px 0px;
+        border-radius: 0px;
+    }
+    .main-navbar .top-navbar .dropdown-menu .dropdown-item {
+        padding: 8px 16px;
+        border-bottom: 1px solid #ccc;
+        font-size: 14px;
+    }
+    .main-navbar .top-navbar .dropdown-menu .dropdown-item i {
+        width: 20px;
+        text-align: center;
+        color: #2874f0;
+        font-size: 14px;
+    }
+    .main-navbar .navbar {
+        padding: 0px;
+        background-color: #ddd;
+    }
+    .main-navbar .navbar .nav-item .nav-link {
+        padding: 8px 20px;
+        color: #000;
+        font-size: 15px;
+    }
+    .footer-area{
+        padding: 40px 0px;
+        background-color: #2874f0;
+        color: #fff;
+    }
+    .footer-area a{
+        text-decoration: none;
+    }
+    .footer-area .footer-heading{
+        font-size: 24px;
+        color: #fff;
+    }
+    .footer-area .footer-underline{
+        height: 1px;
+        width: 70px;
+        background-color: #ddd;
+        margin: 10px 0px;
+    }
+    .copyright-area{
+        padding: 14px 0px;
+        background-color: #262626;
+    }
+    .copyright-area p{
+        margin-bottom: 0px;
+        color: #fff;
+    }
+    .copyright-area .social-media{
+        text-align: end;
+    }
+    .copyright-area .social-media a{
+        margin: 0px 10px;
+        color: #fff;
+        width: 20px;
+    }
+
+   
+
+</style>

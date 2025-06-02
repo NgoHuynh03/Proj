@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        .gradient-custom {
+            background: linear-gradient(to right, rgba(58, 123, 213, 1), rgba(58, 180, 220, 1));
+        }
+
+        .card-custom {
+            background: rgba(0, 0, 0, 0.75);
+            border: none;
+            border-radius: 1rem;
+            box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.5);
+        }
+
+        .form-control:focus {
+            box-shadow: none;
+            border-color: #57b3e4;
+        }
+
+        .btn-custom {
+            border-radius: 50px;
+        }
+
+        .btn-custom:hover {
+            background: #57b3e4;
+            color: #fff;
+        }
+    </style>
+</head>
+
+<body>
+<section class="vh-100 gradient-custom">
+    <div class="container py-5 h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-12 col-md-8 col-lg-6 col-xl-5">
+                <div class="card card-custom text-white">
+                    <div class="card-body p-5">
+                        <form method="post" action="/Account/Login">
+                            <div class="text-center mb-5">
+                                <h2 class="fw-bold mb-2 text-uppercase">Login</h2>
+                                <p class="text-white-50">Please enter your email and password to continue</p>
+                            </div>
+
+                            <!-- Email input -->
+                            <div class="form-group mb-4">
+                                <input type="email" id="typeEmailX" name="email" class="form-control form-control-lg" placeholder="Email" required />
+                            </div>
+
+                            <!-- Password input -->
+                            <div class="form-group mb-4">
+                                <input type="password" id="typePasswordX" name="password" class="form-control form-control-lg" placeholder="Password" required />
+                            </div>
+
+                            <!-- Submit button -->
+                            <div class="d-grid mb-4">
+                                <button type="submit" class="btn btn-outline-light btn-lg btn-custom">
+                                    Login
+                                </button>
+                            </div>
+
+                            <!-- Register link -->
+                            <div class="text-center">
+                                <p>Don't have an account?
+                                    <a href="/Account/Register" class="text-white fw-bold">Sign Up</a>
+                                </p>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Bootstrap JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
