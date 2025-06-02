@@ -36,8 +36,7 @@ dotnet restore
 dotnet watch run
 Hệ thống sẽ tự động build lại và reload khi bạn thay đổi file mã nguồn.
 4. Truy cập website
-Mở trình duyệt và truy cập:
-https://localhost:5001
+Tự động mở trình duyệt và truy cập tới localhost
 🧪 Migration & CSDL
 dotnet ef migrations add InitialCreate
 dotnet ef database update
