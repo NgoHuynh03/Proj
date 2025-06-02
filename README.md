@@ -12,7 +12,7 @@
 
 ## 📂 Cấu trúc thư mục
 
-ECommerceWebsite/
+Proj/
 │
 ├── Controllers/
 ├── Models/
@@ -20,7 +20,7 @@ ECommerceWebsite/
 ├── wwwroot/
 ├── appsettings.json
 ├── Program.cs
-└── ECommerceWebsite.csproj
+└── Proj.csproj
 
 ## ▶️ Cách chạy dự án
 
